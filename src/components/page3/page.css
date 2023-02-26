@@ -1,0 +1,16 @@
+.imageBack{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    padding-top: 100px;
+    padding-left: 150px;
+
+}
+.box{
+    width: 700px;
+    height: 500px;
+    /* border: 2px solid black; */
+  
+}

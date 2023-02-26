@@ -1,0 +1,10 @@
+.page{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

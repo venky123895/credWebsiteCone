@@ -1,0 +1,27 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(36,36,36);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lastBox{
+    width: 85%;
+    height: 90%;
+    /* border: 2px solid white; */
+}
+h3{
+    color: white;
+}
+p{
+    color: lightgray;
+    font-size: 1.3rem;
+    margin-top: 10px;
+}
+li{
+    color: lightgray;
+    font-size: 1.3rem;
+    margin-top: 10px;
+    
+}
